@@ -36,7 +36,7 @@ Involved in GigaBlocks, a project aimed at crowdsourcing missing data and creati
 ### 🎤 Public Speaking & Contributions
 
 - Accepted into the **Morph Ambassador Program** to showcase my passion for blockchain.
-- Speaker at various events, including sessions on **Blockchain 101** and **Real World Assets (RWAs)** potential with Ethereum. Applied for Devcon 7 SEA with a talk focused on RWA integration on Ethereum.
+- Speaker at various events, including sessions on **Blockchain 101** and **Real World Assets (RWAs)** potential with Ethereum.
 - Instructor for blockchain fellowship programs, teaching the next generation of developers through **eSatya** and the **Ethereum Support Program**.
 
 ---
